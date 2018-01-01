@@ -1,0 +1,836 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-white\t(services.html)"
+			],
+			[
+				"b",
+				"bd\tborder"
+			],
+			[
+				"tex",
+				"text-white\t(index.html)"
+			],
+			[
+				"lorem",
+				"lorempixel.com/400/400\t(index.html)"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"bg",
+				"bg\tbackground"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"video",
+				"video-play\t(index.html)"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"home-",
+				"home-heading\t(index.html)"
+			],
+			[
+				"carousel-ima",
+				"carousel-image1\t(index.html)"
+			],
+			[
+				"caro",
+				"carousel-image2"
+			],
+			[
+				"car",
+				"carousel-image1"
+			],
+			[
+				"carou",
+				"carousel1"
+			],
+			[
+				"nav",
+				"navbar-brand"
+			],
+			[
+				"text-",
+				"text-center"
+			],
+			[
+				"cate",
+				"categories.html"
+			],
+			[
+				"user",
+				"userPassword"
+			],
+			[
+				"data",
+				"data-dismiss"
+			],
+			[
+				"align",
+				"align-self-center"
+			],
+			[
+				"input",
+				"input-group-addon"
+			],
+			[
+				"collap",
+				"collapse1"
+			],
+			[
+				"bb",
+				"bdb\tborder-bottom"
+			],
+			[
+				"pr",
+				"primary-overlay\t(index.html)"
+			],
+			[
+				"row",
+				"rows\tAttr"
+			],
+			[
+				"con",
+				"contactMessage"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"conta",
+				"contactName"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"py",
+				"py-4"
+			],
+			[
+				"share",
+				"share-section\t(index.html)"
+			],
+			[
+				"cre",
+				"create-section\t(index.html)"
+			],
+			[
+				"expl",
+				"explore-section\t(index.html)"
+			],
+			[
+				"explo",
+				"explore-section"
+			],
+			[
+				"da",
+				"dark-overlay\t(index.html)"
+			],
+			[
+				"home",
+				"home-inner\t(index.html)"
+			],
+			[
+				"ho",
+				"home-section\t(index.html)"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"navba",
+				"navbarCollapse"
+			],
+			[
+				"boot",
+				"bootstrap.min.js\t(gulpfile.js)"
+			],
+			[
+				"boo",
+				"bootstrap\t(gulpfile.js)"
+			],
+			[
+				"font-awes",
+				"font-awesome-css"
+			],
+			[
+				"brow",
+				"browserSync"
+			],
+			[
+				"be",
+				"browserSync"
+			],
+			[
+				"bro",
+				"browserSync"
+			],
+			[
+				"form-check",
+				"form-check-label"
+			],
+			[
+				"fomr",
+				"form-check-label"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"pet",
+				"petName"
+			],
+			[
+				"bread",
+				"breadcrumb-item"
+			],
+			[
+				"a",
+				"a\tTag"
+			],
+			[
+				"list",
+				"list-group-item"
+			],
+			[
+				"prog",
+				"progress-bar"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"navbar",
+				"navbar-toggler"
+			],
+			[
+				"aria",
+				"aria-label"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"lis",
+				"list-inline-item"
+			],
+			[
+				"dat",
+				"dataToSend"
+			],
+			[
+				"inser",
+				"insertQuery"
+			],
+			[
+				"mysqli",
+				"mysqli_query"
+			],
+			[
+				"com",
+				"comment"
+			],
+			[
+				"comm",
+				"comment\t(index.html)"
+			],
+			[
+				"use",
+				"user"
+			],
+			[
+				"co",
+				"comment"
+			],
+			[
+				"mysq",
+				"mysql_close"
+			],
+			[
+				"sele",
+				"selectQuery"
+			],
+			[
+				"sugg",
+				"suggestions_box"
+			],
+			[
+				"sug",
+				"suggestion"
+			],
+			[
+				"resu",
+				"result"
+			],
+			[
+				"pla",
+				"planet_details"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"onke",
+				"onkeyup\tAttr"
+			],
+			[
+				"get",
+				"getPlanetDetails"
+			],
+			[
+				"in",
+				"input\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "glozzom/src/html/contact.html",
+			"settings":
+			{
+				"buffer_size": 4756,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "glozzom/src/index.html",
+			"settings":
+			{
+				"buffer_size": 9208,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "glozzom/src/scss/style.scss",
+			"settings":
+			{
+				"buffer_size": 1630,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 372.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/riyaz/Tutorials/Bootstrap 4 From Scratch With 5 Projects/bs4projects",
+		"/home/riyaz/Tutorials/Bootstrap 4 From Scratch With 5 Projects/bs4projects/glozzom",
+		"/home/riyaz/Tutorials/Bootstrap 4 From Scratch With 5 Projects/bs4projects/glozzom/src"
+	],
+	"file_history":
+	[
+		"/home/riyaz/Tutorials/Bootstrap 4 From Scratch With 5 Projects/bs4projects/glozzom/src/html/services.html",
+		"/home/riyaz/Tutorials/Bootstrap 4 From Scratch With 5 Projects/bs4projects/glozzom/src/html/blog.html",
+		"/home/riyaz/Tutorials/Bootstrap 4 From Scratch With 5 Projects/bs4projects/glozzom/src/html/aboutus.html",
+		"/home/riyaz/Tutorials/Bootstrap 4 From Scratch With 5 Projects/bs4projects/glozzom/src/js/script.js",
+		"/home/riyaz/Tutorials/Bootstrap 4 From Scratch With 5 Projects/bs4projects/glozzom/src/index.html",
+		"/home/riyaz/Tutorials/Bootstrap 4 From Scratch With 5 Projects/bs4projects/glozzom/gulpfile.js",
+		"/home/riyaz/Tutorials/Bootstrap 4 From Scratch With 5 Projects/bs4projects/glozzom/src/html/contact.html",
+		"/home/riyaz/Tutorials/Bootstrap 4 From Scratch With 5 Projects/bs4projects/glozzom/src/scss/style.scss",
+		"/home/riyaz/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/Default (Linux).sublime-keymap",
+		"/home/riyaz/Tutorials/Bootstrap 4 From Scratch With 5 Projects/bs4projects/blogen/src/index.html",
+		"/home/riyaz/Tutorials/Bootstrap 4 From Scratch With 5 Projects/bs4projects/looplab/src/scss/style.scss",
+		"/home/riyaz/Tutorials/Bootstrap 4 From Scratch With 5 Projects/bs4projects/blogen/src/scss/style.scss",
+		"/home/riyaz/Tutorials/Bootstrap 4 From Scratch With 5 Projects/bs4projects/mizuxe/src/index.html",
+		"/home/riyaz/Tutorials/Bootstrap 4 From Scratch With 5 Projects/bs4projects/blogen/gulpfile.js",
+		"/home/riyaz/Tutorials/Bootstrap 4 From Scratch With 5 Projects/bs4projects/looplab/gulpfile.js",
+		"/home/riyaz/Tutorials/Bootstrap 4 From Scratch With 5 Projects/bs4projects/looplab/src/css/bootstrap.css",
+		"/home/riyaz/Tutorials/Bootstrap 4 From Scratch With 5 Projects/bs4projects/blogen/src/html/login.html",
+		"/home/riyaz/Tutorials/Bootstrap 4 From Scratch With 5 Projects/bs4projects/blogen/src/html/user/profile.html",
+		"/home/riyaz/Tutorials/Bootstrap 4 From Scratch With 5 Projects/bs4projects/blogen/src/html/user/settings.html",
+		"/home/riyaz/Tutorials/Bootstrap 4 From Scratch With 5 Projects/bs4projects/blogen/src/html/categories.html",
+		"/home/riyaz/Tutorials/Bootstrap 4 From Scratch With 5 Projects/bs4projects/blogen/src/html/details.html",
+		"/home/riyaz/Tutorials/Bootstrap 4 From Scratch With 5 Projects/bs4projects/blogen/src/html/posts.html",
+		"/home/riyaz/Tutorials/Bootstrap 4 From Scratch With 5 Projects/bs4projects/blogen/src/html/users.html",
+		"/home/riyaz/Tutorials/Bootstrap 4 From Scratch With 5 Projects/bs4projects/blogen/package.json",
+		"/home/riyaz/Tutorials/Bootstrap 4 From Scratch With 5 Projects/bs4projects/mizuxe/package.json",
+		"/home/riyaz/Tutorials/Bootstrap 4 From Scratch With 5 Projects/bs4projects/looplab/package.json",
+		"/home/riyaz/Tutorials/Bootstrap 4 From Scratch With 5 Projects/bs4projects/mizuxe/src/scss/style.scss",
+		"/home/riyaz/Tutorials/Bootstrap 4 From Scratch With 5 Projects/bs4projects/mizuxe/node_modules/bootstrap/scss/_variables.scss",
+		"/home/riyaz/Tutorials/Bootstrap 4 From Scratch With 5 Projects/bs4projects/mizuxe/node_modules/font-awesome/scss/_variables.scss",
+		"/home/riyaz/Tutorials/Bootstrap 4 From Scratch With 5 Projects/bs4projects/looplab/node_modules/bootstrap/scss/_variables.scss",
+		"/home/riyaz/Tutorials/Bootstrap 4 From Scratch With 5 Projects/bs4projects/bs4starter/src/index.html",
+		"/home/riyaz/Tutorials/Bootstrap 4 From Scratch With 5 Projects/bs4projects/looplab/src/index.html",
+		"/home/riyaz/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/riyaz/.config/sublime-text-3/Packages/User/Emmet.sublime-settings",
+		"/home/riyaz/.config/sublime-text-3/Packages/Emmet/Default (Linux).sublime-keymap",
+		"/home/riyaz/.config/sublime-text-3/Packages/Emmet/Emmet.sublime-settings",
+		"/home/riyaz/Tutorials/Bootstrap 4 From Scratch With 5 Projects/bs4projects/looplab/src/css/style.css",
+		"/home/riyaz/.config/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
+		"/home/riyaz/Tutorials/Bootstrap 4 From Scratch With 5 Projects/bs4projects/bs4starter/src/scss/style.scss",
+		"/home/riyaz/Tutorials/Bootstrap 4 From Scratch With 5 Projects/bs4projects/bs4starter/src/css/style.css",
+		"/home/riyaz/Tutorials/Bootstrap 4 From Scratch With 5 Projects/bs4projects/bs4starter/gulpfile.js",
+		"/home/riyaz/Tutorials/Bootstrap 4 From Scratch With 5 Projects/bs4projects/bs4starter/package.json",
+		"/home/riyaz/.config/sublime-text-3/Packages/All Autocomplete/All Autocomplete.sublime-settings",
+		"/home/riyaz/Tutorials/Bootstrap 4/Projects/New/index.html",
+		"/var/www/html/ChatApp/index.html",
+		"/home/riyaz/Tutorials/Bootstrap 4/Projects/index.html",
+		"/home/riyaz/Tutorials/index.html",
+		"/var/www/html/WisdomPets/index.html",
+		"/var/www/html/development/index.html",
+		"/var/www/html/ChatApp/server.php",
+		"/var/www/html/ChatApp/style.css",
+		"/var/www/html/PlanetFinder/index.html",
+		"/var/www/html/PlanetFinder/server.php",
+		"/var/www/html/PlanetFinder/client.html",
+		"/home/riyaz/Tutorials/Ajax/PlanetFinder/client.html",
+		"/home/riyaz/.config/sublime-text-3/Packages/User/Side Bar.sublime-settings",
+		"/home/riyaz/.config/sublime-text-3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/home/riyaz/.config/sublime-text-3/Packages/SideBarEnhancements/Default (Linux).sublime-keymap",
+		"/home/riyaz/.config/sublime-text-3/Packages/User/Git.sublime-settings",
+		"/var/www/html/my/my",
+		"/var/www/html/my/<html>"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"400",
+			"headingTwo",
+			"collapseOne",
+			"headingOne",
+			"About",
+			"About Us",
+			"about us",
+			"check",
+			"ms",
+			"560",
+			"teal",
+			"cyan",
+			"teal",
+			"addPostModal",
+			"html",
+			"input-group",
+			"posts.html",
+			"div",
+			"a",
+			"collapse1",
+			"heading1",
+			"collapse1",
+			"heading1",
+			"border-radious",
+			"theme color",
+			"teal",
+			"showcase",
+			"alt+up",
+			"ctrl+shift",
+			"ctrl+shift+up",
+			"ctrl+alt+up",
+			"btn",
+			"cl",
+			"muted",
+			"section",
+			"consequat",
+			"\t\t\t\t\t\t\t\t\t",
+			"header",
+			"\">\n",
+			"\n  ",
+			"\">\n",
+			"#home",
+			"$font-size",
+			"font-size",
+			"div",
+			"label",
+			"div",
+			"src",
+			"=\"...\"",
+			"a",
+			"justify-content-between",
+			"a",
+			"li",
+			"ul",
+			"Click",
+			"button",
+			"item",
+			"div",
+			"        <",
+			"col",
+			"li",
+			"html"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "glozzom/src/html/contact.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4756,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4220,
+								4220
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1360.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "glozzom/src/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9208,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6107,
+								6107
+							],
+							[
+								6111,
+								6111
+							],
+							[
+								6346,
+								6346
+							],
+							[
+								6350,
+								6350
+							],
+							[
+								6585,
+								6585
+							],
+							[
+								6589,
+								6589
+							],
+							[
+								6860,
+								6860
+							],
+							[
+								6864,
+								6864
+							],
+							[
+								7099,
+								7099
+							],
+							[
+								7103,
+								7103
+							],
+							[
+								7338,
+								7338
+							],
+							[
+								7342,
+								7342
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2423.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "glozzom/src/scss/style.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1630,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1621,
+								1621
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 853.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "bs4.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"blog.html",
+				"glozzom/src/html/blog.html"
+			],
+			[
+				"script",
+				"glozzom/src/js/script.js"
+			],
+			[
+				"style.scss",
+				"glozzom/src/scss/style.scss"
+			],
+			[
+				"index",
+				"blogen/src/index.html"
+			],
+			[
+				"inde",
+				"mizuxe/src/index.html"
+			],
+			[
+				"login",
+				"blogen/src/html/login.html"
+			],
+			[
+				"users",
+				"blogen/src/html/users.html"
+			],
+			[
+				"posts",
+				"blogen/src/html/posts.html"
+			],
+			[
+				"_variables",
+				"mizuxe/node_modules/bootstrap/scss/_variables.scss"
+			],
+			[
+				"styl",
+				"bs4starter/src/scss/style.scss"
+			],
+			[
+				"style",
+				"bs4starter/src/css/style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 155.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
