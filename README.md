@@ -8,6 +8,7 @@ Libraries used,
 - saas
 
 ### Install packages
-`cd projectFolder/; npm install`
+`cd projectFolder/`
+`npm install`
 ### Run project
 `npm start`
